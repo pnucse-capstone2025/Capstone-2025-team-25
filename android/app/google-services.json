@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1053674822608",
+    "project_id": "umido-472314",
+    "storage_bucket": "umido-472314.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053674822608:android:08a64dbce1a013a4f237d5",
+        "android_client_info": {
+          "package_name": "com.example.umido"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053674822608-fmucscrfdbojfns1ov7ieqk0jkntq4nb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.umido",
+            "certificate_hash": "5a079a9fde5a34976250689f8348439c5e1bca5c"
+          }
+        },
+        {
+          "client_id": "1053674822608-2h4s7ph7mp5k9drdhqbphvftqcnnro3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf4MdaSX_GbpSpd0cAov_rCuR5lXe8N9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053674822608-2h4s7ph7mp5k9drdhqbphvftqcnnro3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

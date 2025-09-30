@@ -1,0 +1,51 @@
+name: umido
+description: "A new Flutter project."
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Existing dependency
+  cupertino_icons: ^1.0.8
+
+  # Added based on your imports
+  http: ^1.2.0 # For HTTP requests (package:http/http.dart)
+  sqflite: ^2.3.0 # SQLite database for local storage
+  path: ^1.9.0 # Used with sqflite for file paths
+  google_sign_in: ^6.2.1
+  shared_preferences: ^2.3.2
+  google_fonts: ^6.2.1
+  font_awesome_flutter: ^10.7.0
+  image_picker: ^1.1.2
+  animations: ^2.0.11
+  provider: ^6.1.2
+  csv: ^6.0.0
+  intl: ^0.20.2
+  flutter_local_notifications: ^17.1.2 # For showing notifications
+  timezone: ^0.9.3
+  permission_handler: ^11.3.1
+  flutter_background_service: ^5.1.0
+  firebase_core: ^2.32.0
+  firebase_messaging: ^14.9.4
+  http_parser: ^4.1.2
+  connectivity_plus: ^5.0.2
+  uuid: ^4.3.0
+  flutter_dotenv: ^6.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
